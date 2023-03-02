@@ -31,7 +31,7 @@
     transition: all ls;
     text-decoration: none;
     padding-top: 100px;
-    padding-left: 20px;
+    padding-left: 3px;
     z-index: 9;
   }
   .header_nav.active{
@@ -104,4 +104,5 @@
   }
   div content{
     position: fixed;
+    padding-left: 20px;
   }
